@@ -1,0 +1,25 @@
+#logo {
+  background-color: grey;
+  height: 90px;
+}
+
+#barra-navegacion.col {
+  height: 90px;
+}
+
+#menu {
+  height: 50px;
+}
+
+#cuerpo {
+  height: 450px;
+}
+
+#col-cuerpo {
+  background-color: grey;
+}
+
+#marca {
+  font-family: Arial, Helvetica, sans-serif;
+  color: indianred;
+}
